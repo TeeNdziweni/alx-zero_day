@@ -1,1 +1,1 @@
-creating my first directory
+updated reademe file on github
